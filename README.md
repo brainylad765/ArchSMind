@@ -20,22 +20,6 @@
 
 ---
 
-## 📖 Table of Contents
-
-- [What is ArchMind?](#-what-is-archmind)
-- [Why Swarm Intelligence?](#-why-swarm-intelligence)
-- [How It’s Different from ChatGPT](#-how-its-different-from-chatgpt)
-- [Real-World Example](#-real-world-example)
-- [System Architecture](#-system-architecture)
-- [Swarm Orchestration](#-swarm-orchestration)
-- [Tech Stack](#-tech-stack)
-- [Project Roadmap (to July 20, 2026)](#-project-roadmap)
-- [Getting Started](#-getting-started)
-- [Contributing](#-contributing)
-- [License](#-license)
-
----
-
 ## 🧩 What is ArchMind?
 
 **ArchMind is a production‑grade, multi‑agent AI platform that reasons about software architecture.**  
@@ -130,6 +114,7 @@ These agents share a **strict typed contract** (`ArchitectureDocument`) and are 
 Every functional block becomes a node, dependencies become edges. Click a node to see its details, database, and API endpoints.
 
 ---
+
 ## 🏗️ System Architecture
 
 ```mermaid
@@ -165,10 +150,10 @@ graph TD
     style A2 fill:#9c27b0,stroke:#333
     style A3 fill:#9c27b0,stroke:#333
     style A4 fill:#9c27b0,stroke:#333
-    style A5 fill:#9c27b0,stroke:#333
+style A5 fill:#9c27b0,stroke:#333
     style A6 fill:#9c27b0,stroke:#333
+```
 
-    
 ## ⚙️ Swarm Orchestration
 
 The orchestration engine (Milestone M2) is a **directed acyclic graph (DAG)** of agent executions.
@@ -224,12 +209,3 @@ flowchart LR
 [![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow)](https://mlflow.org)
 
 ---
-
-
-## 📄 License
-
-MIT © 2026 [Your Name] — Built for the future of AI‑assisted systems design.
-
-<div align="center">
-<b>ArchMind</b> · <i>Reasoning beyond text — Designing systems, not sentences.</i>
-</div>
