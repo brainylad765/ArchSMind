@@ -1,4 +1,4 @@
-# 🧠 ArchMind — Swarm based Multi‑Agent AI Architecture Reasoning Platform
+# 🧠 ArchSMind — Swarm based Multi‑Agent AI Architecture Reasoning Platform
 
 <div align="center">
 
@@ -130,7 +130,6 @@ These agents share a **strict typed contract** (`ArchitectureDocument`) and are 
 Every functional block becomes a node, dependencies become edges. Click a node to see its details, database, and API endpoints.
 
 ---
-
 ## 🏗️ System Architecture
 
 ```mermaid
@@ -169,6 +168,7 @@ graph TD
     style A5 fill:#9c27b0,stroke:#333
     style A6 fill:#9c27b0,stroke:#333
 
+    
 ## ⚙️ Swarm Orchestration
 
 The orchestration engine (Milestone M2) is a **directed acyclic graph (DAG)** of agent executions.
