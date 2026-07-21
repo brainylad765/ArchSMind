@@ -14,7 +14,7 @@
 [![Linux](https://img.shields.io/badge/Linux-ready-FCC624?logo=linux)](https://kernel.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**Status:** *On track for v1.0 launch — July 20, 2026* 🎯
+**Status:** *On track for v1.0 launch — July 30, 2026* 🎯
 
 </div>
 
